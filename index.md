@@ -6,7 +6,6 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ##### This code is the 3rd step of this exercise
-
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
@@ -15,3 +14,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+##### This task list is the 4th step of this exercise
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
