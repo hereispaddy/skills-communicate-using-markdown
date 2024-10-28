@@ -2,5 +2,16 @@
 ### This is a H3 header
 ###### This is a H6 header, the smallest header in markdown
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ##### This image is the 2nd step of this exercise
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+##### This code is the 3rd step of this exercise
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
